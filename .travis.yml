@@ -5,5 +5,5 @@ deploy:
   role: "arn:aws:iam::399112729337:role/lambda_basic_execution"
   runtime: "nodejs4.3"
   handler_name: "handler"
-  access_key_id: "AWS ACCESS KEY ID"
+  access_key_id: "AKIAJTI3F3OMK2BCJIRA"
   secret_access_key: "AWS SECRET ACCESS KEY"
