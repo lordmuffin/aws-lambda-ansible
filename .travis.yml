@@ -3,7 +3,7 @@ deploy:
   function_name: aws-lambda-ansible
   region: us-east-1
   role: arn:aws:iam::399112729337:role/lambda_basic_execution
-  runtime: nodejs4.3
+  runtime: python2.7
   handler_name: handler
   access_key_id: AKIAJTI3F3OMK2BCJIRA
   secret_access_key:
